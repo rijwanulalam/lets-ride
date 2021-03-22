@@ -5,3 +5,8 @@
     padding: 5rem 2rem;
     
 }
+@media screen and (max-width: 600px) {
+    .container{
+      display: block;
+    }
+  }

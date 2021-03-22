@@ -47,3 +47,9 @@ input[type="text"] {
 .available-vehicles > img{
     width: 3.7rem;
 }
+
+@media screen and (max-width: 600px) {
+    .set-location{
+      display: block;
+    }
+  }
