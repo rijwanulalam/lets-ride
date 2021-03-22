@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+}
+.login-field{
+    width: 20rem;
+    height: 2rem;
+    margin: 1rem;
+    padding: 5px;
+}
+.login-button{
+    padding: 10px 30px;
+    margin-bottom: 10px;
+}
+.log-button{
+    margin-bottom: 10px;
+}

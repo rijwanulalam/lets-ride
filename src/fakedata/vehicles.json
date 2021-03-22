@@ -1,0 +1,6 @@
+[
+    {"id":1, "vehicle":"bike", "vehicleImg":"https://i.ibb.co/KrxQZMB/bike.png", "capacity":"1", "price":"50$"},
+    {"id":2, "vehicle":"car", "vehicleImg":"https://i.ibb.co/WgCbC8J/car.png", "capacity":"1", "price":"50$"},
+    {"id":3, "vehicle":"bus", "vehicleImg":"https://i.ibb.co/Xs2896R/bus.png", "capacity":"1", "price":"50$"},
+    {"id":4, "vehicle":"train", "vehicleImg":"https://i.ibb.co/JvznqV0/train.png", "capacity":"1", "price":"50$"}
+]

@@ -1,0 +1,14 @@
+.single-vehicle{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px black;
+    cursor: pointer;
+}
+.single-vehicle > img{
+    width: 12rem;
+}
+.single-vehicle > p{
+    font-size: 1.5rem;
+    padding: 1rem;
+}

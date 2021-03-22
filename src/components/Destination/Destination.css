@@ -1,0 +1,49 @@
+.set-location{
+    display: flex;
+    max-width: 80%;
+    border-top: 1px solid rgba(0, 0, 255, 0.405);
+    justify-content: space-between;
+}
+.input-container{
+    width: 30%;
+    height: fit-content;
+    text-align: center;
+    margin: 20px;
+    padding:20px;
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.624);
+}
+.map-container{
+    text-align: center;
+    margin: 20px;
+    padding:10px;
+    border-radius: 20px;
+}
+.map-container > img{
+    width: 70%;
+}
+
+input[type="text"] {
+    
+    height: 2rem;
+}
+.input-final{
+    background-color: rgba(0, 0, 255, 0.583);
+    text-align: left;
+    padding: .5rem 2rem;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 27px;
+}
+.available-vehicles{
+    display: flex;
+    background-color: rgba(0, 0, 255, 0.583);
+    padding: .5rem 0rem;
+    color: #fff;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 27px;
+}
+.available-vehicles > img{
+    width: 3.7rem;
+}
